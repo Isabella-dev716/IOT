@@ -34,9 +34,11 @@ pinMode(trigger,OUTPUT);
    digitalWrite(trigger,LOW);
   delay(5); espere 5 milisegundos
   digitalWrite(trigger,HIGH);
+  
   delay(10); espere 10 milisegundos
    digitalWrite(trigger,LOW); desligar porta
     echo porta de entrada
+    
      pinMode(echo,INPUT); definir porta como entrada
      retorna os dados que a porta recebe
   return pulseIn(echo, HIGH);
