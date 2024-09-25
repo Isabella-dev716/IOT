@@ -25,7 +25,7 @@ distãncia toda vez que alguém se aproxime a menos de 1 metro de sensor.
 LiquidCrystal lcd (2,3,4,9,10,11,12);
 int ledLCD =13;
 
-metodo para capturar a distancia
+metodo para capturar a distãncia
 //retorna numero quebrado longo
 long distancia(int trigger, int echo){
 trigger porta de saida
