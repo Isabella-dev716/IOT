@@ -1,0 +1,24 @@
+Poste Inteligente
+
+*Componentes:
+
+1 - 1 Arduino
+2 - 1 Protoboard
+3 - 7 jumpers
+4 - 1 Led
+5 - 1 Fotorresistor
+6 - 2 resistores
+
+*Como foi feito o poste inteligente:
+O poste inteligente foi feito conectando um jumper próximo
+do led na porta negativa e um jumper próximo do resistor foi 
+conectado na porta digital (PWM) ~3.
+O fotorresitor está conectado com o jumper próximo na porta positiva
+e o jumper que está no segundo resistor se conecta na porta A0 analógica.
+o jumper na entrada negativa liga-se na porta GND(Power) e o outro jumper na entrada positiva se liga na porta
+5V.
+
+*Objetivo do Poste Inteligente
+Verificar a quantidade de luminosidade no local se 
+tem muita ou pouca luminosidade.
+
