@@ -1,0 +1,18 @@
+*Semáforo Inteligente
+
+*Componentes
+1 - 4 arduinos
+2 - 4 protobards
+3 - 10 leds
+4 - 10 resistores
+5 - 28 jumpers
+
+*Como foi feito o semáforo inteligente:
+foi utilizado 4 arduinos e 4 protoboards, 10 leds, 10 resistores e 28 jumpers conectados
+nas portas digitais (PWM) e na Power: GND e 5V.
+
+* Objetivo do Poste Inteligente
+O semáforo foi criado em uma rodovia de pista dupla para ajudar os pedestres a atravessarem
+a faixa de pedestre quando não vierem carros e o sinal estiver vermelho para que os pedestres não se confundam 
+e saibam a hora certa de atravessarem a rua e os carros saibam quando prosseguirem quando o sinal 
+estiver verde e não tiver nenhum pedestre para evitar que ocorra acidentes.
