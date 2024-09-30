@@ -1,0 +1,21 @@
+*Semaforointeligentesegundaaula
+
+*Componentes:
+
+1 - 1 Arduino
+2 - 1 Protoboard
+3 - 3 Leds
+4 - 3 Resistores
+5 - 8 Jumpers
+
+*Como foi feito:
+3 leds e 3 resistores estão pertos um do outro,
+3 jumpers estão conectados nas tres primeiras portas da porta digital(PWM),
+2 Jumpers estão conectados na Power na porta GND e 5V e cada jumper está conectado próximo
+a cada led e resistor.
+
+*Objetivo do Semáforo:
+Esperar 5 segundos para ligar o led vermelho, 
+Esperar 5 segundos para ligar o led amarelo e 
+desligar o led vermelho e
+Esperar 5 segundos ligar o led verde e desligar o led amarelo.
