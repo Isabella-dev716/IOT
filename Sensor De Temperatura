@@ -1,0 +1,21 @@
+*Como foi feito o sensor de temperatura:
+O sensor de temperatura foi criado utilizando-se um arduino, uma protoboard e uma lcd com 16 colunas e 2 linhas com GND conectado com o negativo
+e o VCC conectado com o positivo e o SDA conectado com a porta A4 e o SCL conectado com a porta A5.
+1 jumper está conectado na porta negativa e o 2 jumper está conectado com a porta positiva e o transitor ou 
+sensor de temperatura está próximo desses jumpers com as portas positiva e negativa.
+
+
+1 - 1 Arduino Uno
+2 - 1 Protoboard
+3 - 1 Lcd 16x2 (12C)
+4 - 9 jumpers
+5 - 1 Sensor de Temperatura (Transitor)
+
+*Objetivo do Sensor de Temperatura:
+Verificar a temperatura no ambiente, ou seja, identificar qual o grau de
+temperatura que está no local.
+
+
+
+
+
