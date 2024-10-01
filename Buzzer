@@ -1,0 +1,18 @@
+*Buzzer
+
+*Componentes:
+
+1 - 1 Arduino
+2 - 1 Protoboard
+3 - 1 Piezzo
+4 - 3 Jumpers
+
+*Como foi Criado:
+O piezzo está conectado nos pino e,
+um jumper está conectado na porta digital ~3,
+um jumper está na entrada negativa foi 
+conectado na power porta GND.
+
+*Objetivo do Buzzer:
+Tocar melodias de musicas que desejarmos que
+ele toque.
