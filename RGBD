@@ -1,0 +1,16 @@
+*RGBD
+
+*Componentes:
+1 - 1 Arduino Uno
+2 - 1 Protoboard
+3 - 9 Jumpers
+4 - 2 Leds RGB
+5 - 6 Resistores
+
+*Como foi criado o RGBD:
+O rgb foi criado utilizando-se 6 resistores conectados nos pinos próximos aos leds e 
+os jumpers conectados nas portas digitais e power.
+
+*Objetivo do RGBD:
+O led RGBD são utilizados como piscas-piscas de natal, tenis de led,brinquedos que piscam  e 
+ursinhos de pelucia com leds.
