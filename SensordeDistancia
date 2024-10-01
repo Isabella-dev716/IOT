@@ -1,0 +1,23 @@
+*Sensor de distancia e tela lcd
+
+*Componentes:
+1 - 1 Arduino
+2 - 1 Protoboard
+3 - 1 Sensor de distancia
+4 - 1 Resistor
+5 - 17 Jumpers
+
+*Como foi criado o sensor de distancia:
+A tela lcd foi conectada na protoboard, o resistor foi conectado 
+próximo a tela lcd, o sensor de distancia possui tres portas e as
+entradas GND,5V e SIG estão portas positiva,negativa e digital.
+11 jumpers foram conectados próximos aos pinos da tela lcd.
+2 jumpers estão conectados nas portas power e um jumper está perto do 
+resistor está na porta digital(PWM).
+
+*Objetivo do Sensor de Distancia:
+É medir e calcular distancia de um objeto ou indíviduo 
+de um ponto refencia e um objeto desejado, ou seja, ele
+emite sinais para detectar se o objeto ou indíviduo estão
+muito próximos ou estão longes. se estiverem muito próximos
+o sensor de distancia vai avisar para manter a distancia.
