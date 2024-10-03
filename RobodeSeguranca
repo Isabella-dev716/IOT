@@ -1,0 +1,16 @@
+*Robo de Segurança
+
+*Componentes:
+1 - 1 Arduino 
+2 - 1 Protoboard
+3 - 1 Sensor de distãncia
+4 - 1 Micro Servo
+5 - 1 led
+6 - 1 Resistor
+7 - Jumpers
+
+*Objetivo do robo de segurança:
+ criar uma cabeça de robô para monitorar um sistema
+de segurança e detectar pessoas,objetos,parede e 
+emitir um sinal vermelho ao encontrar algum obstáculo.
+
