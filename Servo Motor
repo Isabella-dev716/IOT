@@ -1,0 +1,26 @@
+*Servo Motor
+
+*Componentes:
+
+1 - 1 Arduino
+2 - 1 Protoboard
+3 - 1 Micro servo
+4 - 2 Botões
+5 - 2 Resistores
+6 - 7 Jumpers
+
+*Como foi feito:
+O micro servo fica no meio do arduino e a 
+protoboard, a porta do micro servo que é o
+sinal fica conectada na entrada digital(PWM),
+a porta potencia fica conectada no positivo,
+a porta solo fica conectado no negativo,
+os dois botões estão conectados na protoboard
+e os jumpers estão ligados no GND e 5V.
+
+*Objetivo do micro servo:
+Para que a hélice gire nos graus determinados.
+seja na posição 0, 45°, 90°, 180° e entre outras 
+posições que sejam estabelecidas para o movimento
+da hélice seja de acordo.
+
