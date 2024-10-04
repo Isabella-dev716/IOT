@@ -1,0 +1,16 @@
+Buzzer com musica
+
+*Componentes:
+1 - 1 Arduino
+2 - 1 Protoboard
+3 - 1 Piezo
+4 - 3 jumpers
+
+*Como foi feito:
+O piezo está conectado na protoboard,
+ojumper na porta positiva do piezo
+está na porta digital e  a porta negativa
+está na entrada negativa.
+
+*Objetivo:
+Tocar a música desejada.
