@@ -1,0 +1,21 @@
+*Alarme com Sensor 
+
+* Componentes:
+1 - 1 Arduino
+2 - 1 Protoboard
+3 - 1 Sensor PIR
+4 - 1 Piezo
+5 - 8 Jumpers
+
+*Como foi criado:
+O sensor pir e o piezo foram conectados
+na protoboard, as portas sinal,potencia 
+e solo foram estão ligadas nas entradas digitais,
+negativa e positiva e o jumper conectado no piezo
+está na entrada negativa e a perna positiva 
+do piezo está na porta positiva digital(PWM).
+
+*Objetivo:
+O sensor pir captura os movimentos de algo ou alguém
+e quando detecta um objeto, o piezo emite os sons de 
+movimento.
