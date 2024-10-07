@@ -1,0 +1,21 @@
+*Motor de Passo
+
+*Componentes:
+
+1 - 1 Arduino Uno
+2 - 1 Drive do motor
+3 - 1 Motor de passo
+4 - 6 Jumpers
+
+*Como foi feito:
+O drive está conectado próximo do arduino
+com 2 jumpers no 5V e no GND e 4 conectados
+nas portas PWM e o drive está conectado
+no motor de passo.
+
+*Objetivo do Motor de Passo:
+Movimentar o motor de 15°/28 a 360°/1024 passos.
+Foi criada uma variável para controlar as voltas do motor,
+ objeto para controlar o motor,definir a velocidade e a aceleração máxima
+do motor, habilitar as portas de controle do motor no arduino e
+fazer o motor se movimentar de 15/28 a 360°/1024 passos.
